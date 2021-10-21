@@ -16,7 +16,7 @@ Some examples of what's new in PHP 8.1
    $ docker-compose up -d
    ```
    
-2. Run the script (inside the `src` directory)`:
+2. Run the script (inside the `src` directory):
    ```
    $ docker exec -it php81 php <script-name>.php 
    ```
